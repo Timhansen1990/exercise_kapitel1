@@ -1,5 +1,6 @@
 package com.company;
 import javax.sound.sampled.Line;
+import java.util.Arrays;
 import java.util.Scanner;
 /* here we are importing the class scanner, scanner is so the editor know we are talking about,
    strings, variables etc.*/
@@ -39,11 +40,19 @@ public class Main {
         cm = inch * CM_PER_INCH;
         System.out.print(inch + " in = ");
         System.out.println(cm + " cm");
-        */
-       // System.out.print(4.0/ 3.0); //
-        // Here there will be print out many decimals//
-                        System.out.println("ghhhg");
 
+       System.out.print(4.0/ 3.0);
+       Here there will be print out many decimals
+        */
+        //System.out.printf("Four Thirds = %.3f", 4.0 / 3.0);//
+       /* int inch = 80;
+        double CM_PR_INCH = 2.54;
+        double cm = inch * CM_PR_INCH;
+        System.out.printf("%d in = %f cm\n", inch, cm);
+        */
+
+        /* double pi = 3.14159;
+           int x = (int) pi;*/
 
     }
 }
