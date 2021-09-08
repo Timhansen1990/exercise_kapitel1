@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        int C;
+        String C;
         Scanner F = new Scanner(System.in);
         System.out.print("Type Celsius: ");
 
