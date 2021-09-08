@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
-	// exercise 1
+	// exercise 2
         Scanner Scanner = new Scanner(System.in);
 
         System.out.print("Enter a temperature in Celsius: ");
